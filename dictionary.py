@@ -4,7 +4,7 @@ import string
 
 
 class Dict(scrapy.Spider):
-    name = 'urban'
+    name = 'dict'
 
     url = 'https://www.urbandictionary.com/popular.php?character='
 
