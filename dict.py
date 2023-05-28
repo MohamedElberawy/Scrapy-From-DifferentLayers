@@ -3,7 +3,7 @@ import scrapy
 import string
 
 
-class Urban(scrapy.Spider):
+class Dict(scrapy.Spider):
     name = 'urban'
 
     url = 'https://www.urbandictionary.com/popular.php?character='
